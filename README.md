@@ -10,9 +10,11 @@ Compile and run the program with:g++ Cipher_Shift.cpp -o Cipher_Shift
 Example:
 <br>
 Enter message: hello world
+<br>
 Enter key : 3
-
+<br>
 Encrypted : khoor zruog
+<br>
 Decrypted : hello world
 
 
